@@ -1,0 +1,2 @@
+Testes funcionais focam no ponto de vista do usuário e são mais sensíveis frágeis.
+Testes de unidade focam no ponto de vista do desenvolvedor e devem ser mais estáveis.
